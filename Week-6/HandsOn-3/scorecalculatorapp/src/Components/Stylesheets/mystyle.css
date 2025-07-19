@@ -1,0 +1,33 @@
+.Name{
+    font-family: 'Arial', sans-serif;
+    color: #333;
+   font-weight: 300;
+    font-size: 20px;
+}
+
+.School{
+    font-weight: bold;
+    color: #2c3e50;
+    
+}
+.Total{
+    font-size: 18px;
+    color: #e74c3c;
+    font-weight: 500;
+
+}
+.formatstyle{
+    text-align: center;
+    background-color: #ecf0f1;
+    border: 1px solid #bdc3c7;
+    font-size: larger;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #29333a;
+    border-radius: 10px;
+}
+.Score{
+   color: #3498db;
+   font-weight: bold;
+    font-size: 22px;
+}
