@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.box {
+  border-right: 4px solid green;
+  padding: 20px;
+  width: 25%;
+  text-align: left;
+}
+
+.box h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.box h3 {
+  margin: 8px 0;
+  font-weight: bold;
+}
+
+.box p {
+  margin: 4px 0;
+}
